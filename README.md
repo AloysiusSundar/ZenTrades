@@ -1,2 +1,2 @@
 # ZenTrades
- ZenTrades Question 1. Also has the components for Question 2, however.
+ ZenTrades Question 2. Also has the components for Question 1, however.
